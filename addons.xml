@@ -430,7 +430,7 @@
 </addon>	
 
 	
-<addon id="script.module.requests" name="requests" version="2.32.3" provider-name="Python Software Foundation, mkendo">
+<addon id="script.module.requests" name="requests" version="2.32.4" provider-name="Python Software Foundation, mkendo">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.certifi" />

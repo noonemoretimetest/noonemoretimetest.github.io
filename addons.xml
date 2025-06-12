@@ -65,7 +65,7 @@
     </assets>
   </extension>
 </addon>
-<addon id="script.module.bottle" name="Bottle" version="0.13.2" provider-name="Marcel Hellkamp">
+<addon id="script.module.bottle" name="Bottle" version="0.13.3" provider-name="Marcel Hellkamp">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -147,94 +147,6 @@
         <assets>
             <icon>icon.jpg</icon>
             <fanart>icon.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-	
-<addon id="plugin.video.tiktok" name="TIKTOK" version="0.0.5" provider-name="tiktok">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="vi">tiktok</description>
-        <disclaimer lang="vi">tiktok</disclaimer>
-        <summary lang="vi">tiktok</summary>
-		<language>vi</language>
-        <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
-        <assets>
-            <icon>icon.png</icon>
-			<fanart>icon.png</fanart>
-        </assets>
-    </extension>
-</addon>	
-
-<addon id="plugin.video.tiktok2" name="TIKTOK 2" version="0.0.7" provider-name="tiktok2">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="vi">tiktok</description>
-        <disclaimer lang="vi">tiktok</disclaimer>
-        <summary lang="vi">tiktok</summary>
-		<language>vi</language>
-        <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
-        <assets>
-            <icon>icon.jpg</icon>
-			<fanart>icon.jpg</fanart>
-        </assets>
-    </extension>
-</addon>	
-
-<addon id="plugin.video.tiktok3" name="TIKTOK 3" version="0.0.9" provider-name="tiktok3">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="vi">tiktok</description>
-        <disclaimer lang="vi">tiktok</disclaimer>
-        <summary lang="vi">tiktok</summary>
-		<language>vi</language>
-        <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
-        <assets>
-            <icon>icon.jpg</icon>
-			<fanart>icon.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.tiktok4" name="TIKTOK 4" version="0.0.6" provider-name="tiktok4">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="vi">tiktok</description>
-        <disclaimer lang="vi">tiktok</disclaimer>
-        <summary lang="vi">tiktok</summary>
-		<language>vi</language>
-        <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
-        <assets>
-            <icon>icon.jpg</icon>
-			<fanart>icon.jpg</fanart>
         </assets>
     </extension>
 </addon>

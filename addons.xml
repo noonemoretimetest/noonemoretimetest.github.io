@@ -243,7 +243,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.3.9" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.0" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

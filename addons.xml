@@ -373,7 +373,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.certifi" name="certifi" version="2025.4.26" provider-name="Certifi, mkendo">
+<addon id="script.module.certifi" name="certifi" version="2025.6.15" provider-name="Certifi, mkendo">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>

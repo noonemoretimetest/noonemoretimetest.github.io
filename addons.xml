@@ -444,7 +444,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.urllib3" name="urllib3" version="2.4.0" provider-name="urllib3, mkendo">
+<addon id="script.module.urllib3" name="urllib3" version="2.5.0" provider-name="urllib3, mkendo">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>

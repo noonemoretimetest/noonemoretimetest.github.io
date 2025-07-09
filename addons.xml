@@ -253,7 +253,6 @@
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
-		<import addon="script.module.htmlement"/>
 		<import addon="plugin.video.mytube" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">

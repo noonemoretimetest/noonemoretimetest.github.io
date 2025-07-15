@@ -204,6 +204,28 @@
         </assets>
     </extension>
 </addon>
+<addon id="plugin.video.tamquoc" name="TAMQUOC" version="0.0.1" provider-name="tamquoc">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+		<import addon="inputstream.adaptive" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="vi">tamquoc</description>
+        <disclaimer lang="vi">tamquoc</disclaimer>
+        <summary lang="vi">tamquoc</summary>
+		<language>vi</language>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>icon.png</fanart>
+        </assets>
+    </extension>
+</addon>
 <addon id="plugin.video.socolive" name="SOCOlive" version="0.1.7" provider-name="socolive">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>

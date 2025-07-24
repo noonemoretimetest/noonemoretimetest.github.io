@@ -22,6 +22,28 @@
         </assets>
     </extension>
 </addon>
+<addon id="plugin.image.readcomics" name="Read Comics" version="0.0.1" provider-name="readcomics">
+	<requires>
+	    <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests" version="2.32.3"/>
+		<import addon="script.module.pyxbmct" />
+		<import addon="script.module.pil" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>image</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="vi">readcomics</summary>
+		<description lang="vi">readcomics</description>
+		<disclaimer lang="vi">readcomics</disclaimer>
+		<license>GNU General Public License, v2</license>
+		<assets>
+			<icon>resources/media/icon.png</icon>
+			<fanart>resources/media/icon.png</fanart>
+		</assets>
+	</extension>
+</addon>
 <addon id="plugin.video.thethao" name="TheThao" version="0.0.6" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>

@@ -111,7 +111,7 @@
     </extension>
 </addon>	
 
-<addon id="plugin.video.bluphim" name="BluPhim" version="0.0.9" provider-name="bluphim">
+<addon id="plugin.video.bluphim" name="BluPhim" version="0.1.0" provider-name="bluphim">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>

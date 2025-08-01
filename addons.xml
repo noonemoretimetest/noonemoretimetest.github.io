@@ -88,7 +88,7 @@
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.thethao" name="TheThao" version="0.0.7" provider-name="thethao">
+<addon id="plugin.video.thethao" name="TheThao" version="0.0.8" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -362,7 +362,6 @@
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
-		<import addon="inputstream.adaptive" version="20.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>

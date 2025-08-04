@@ -6,6 +6,7 @@ Dự án hoàn toàn phi lợi nhuận, không phục vụ cho mục đích thư
 Dự án chỉ dành cho mục đích cá nhân. Việc chia sẻ tràn lan có thể gây hiểu nhầm về mục đích sử dụng và ảnh hưởng đến người phát triển.
 
 This is a personal project created for educational, experimental, and non-commercial purposes only.
+Any accessible content (if applicable) is from public sources or configured by the end-user.
 This project is strictly non-profit and not intended for commercial use.
 ❗️Please DO NOT share or redistribute this addon publicly or widely.
 It is intended for personal learning only. Public sharing may cause misunderstanding about the purpose and potentially harm the developer.

@@ -22,7 +22,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.animehay" name="AnimeHay" version="0.0.1" provider-name="animehay">
+<addon id="plugin.video.animehay" name="AnimeHay" version="0.0.2" provider-name="animehay">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>
@@ -44,7 +44,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.anime47" name="Anime47" version="0.0.1" provider-name="anime47">
+<addon id="plugin.video.anime47" name="Anime47" version="0.0.2" provider-name="anime47">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>

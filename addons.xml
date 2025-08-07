@@ -292,7 +292,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.tamquoc" name="TAMQUOC" version="0.0.2" provider-name="tamquoc">
+<addon id="plugin.video.tamquoc" name="TAMQUOC" version="0.0.3" provider-name="tamquoc">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -314,7 +314,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.socolive" name="SOCOlive" version="0.1.8" provider-name="socolive">
+<addon id="plugin.video.socolive" name="SOCOlive" version="0.1.9" provider-name="socolive">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>

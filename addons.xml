@@ -379,7 +379,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.ytk" name="ytk" version="0.1.3" provider-name="You.Tu">
+<addon id="plugin.video.ytk" name="ytk" version="0.1.5" provider-name="You.Tu">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

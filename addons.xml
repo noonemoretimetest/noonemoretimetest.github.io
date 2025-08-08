@@ -200,7 +200,7 @@
     </extension>
 </addon>
 	
-<addon id="plugin.video.cineflow" name="CineFlow" version="0.2.9" provider-name="cineflow">
+<addon id="plugin.video.cineflow" name="CineFlow" version="0.3.0" provider-name="cineflow">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

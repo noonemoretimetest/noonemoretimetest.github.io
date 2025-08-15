@@ -67,7 +67,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.animeviesub" name="AnimeVieSub" version="0.0.2" provider-name="animeviesub">
+<addon id="plugin.video.animeviesub" name="AnimeVieSub" version="0.0.3" provider-name="animeviesub">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>

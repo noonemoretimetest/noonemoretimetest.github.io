@@ -72,6 +72,7 @@
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.32.3"/>
 		<import addon="script.module.resolveurl" version="5.0.0"/>
+		<import addon="script.module.bottle" />
 		<import addon="inputstream.adaptive" version="20.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">

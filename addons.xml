@@ -677,12 +677,12 @@
     </extension>
 </addon>
 	
-<addon id="kentestvn" name="kentestvn" version="0.0.6" provider-name="kentestvn">
-	<extension point="xbmc.addon.repository" name="kentestvn">
+<addon id="noonemoretimetest" name="noonemoretimetest" version="0.0.1" provider-name="noonemoretimetest">
+	<extension point="xbmc.addon.repository" name="noonemoretimetest">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/kentestvn/kentestvn.github.io/master/addons.xml</info>
+			<info compressed="false">https://raw.githubusercontent.com/noonemoretimetest/noonemoretimetest.github.io/master/addons.xml</info>
 			<checksum>https://one.one.one.one/cdn-cgi/trace</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/kentestvn/kentestvn.github.io/master/</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/noonemoretimetest/noonemoretimetest.github.io/master/</datadir>
 		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
@@ -765,9 +765,9 @@
         </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>kentestvn</summary>
-		<description>kentestvn</description>
-		<disclaimer>kentestvn</disclaimer>
+		<summary>noonemoretimetest</summary>
+		<description>noonemoretimetest</description>
+		<disclaimer>noonemoretimetest</disclaimer>
 		<platform>all</platform>
 		<assets>
 			<icon>icon.png</icon>

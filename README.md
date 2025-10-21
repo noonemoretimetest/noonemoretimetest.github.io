@@ -1,4 +1,4 @@
-# kentestvn.github.io
+# noonemoretimetest.github.io
 Đây là một dự án cá nhân được tạo ra nhằm mục đích học tập, thử nghiệm và vọc vạch công nghệ.
 Các tiện ích được sưu tầm từ internet.
 Mọi nội dung truy cập thông qua addon (nếu có) là từ nguồn công khai, hoặc do người dùng tự cấu hình.
